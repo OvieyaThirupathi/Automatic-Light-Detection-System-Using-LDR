@@ -147,10 +147,7 @@ B. LED ON – Dark Condition
 \[Insert image showing LED glowing when LDR is covered\]
 
 C. LED OFF – Light Condition
-
-\[Insert image showing LED OFF when light falls on LDR\]
-
-\---
+![image alt](https://github.com/OvieyaThirupathi/Automatic-Light-Detection-System-Using-LDR/blob/1f9ec14d65be537cc303c026addd0fcab094d0f7/LDR%20ON.jpeg)
 
 Project Title
 
