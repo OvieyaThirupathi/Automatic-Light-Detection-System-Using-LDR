@@ -140,7 +140,7 @@ The same basic concept can be developed further for automatic street lights, gar
 
 A. Circuit Setup
 
-\[Insert your breadboard setup image here\]
+![image alt](https://github.com/OvieyaThirupathi/Automatic-Light-Detection-System-Using-LDR/blob/ad9eb4db126de1567a53a17a077ccf6c9f34019a/LDR%20CKT.jpeg)
 
 B. LED ON – Dark Condition
 
