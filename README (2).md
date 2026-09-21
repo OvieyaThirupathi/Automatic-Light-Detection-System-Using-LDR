@@ -144,19 +144,7 @@ A. Circuit Setup
 
 B. LED ON – Dark Condition
 
-\[Insert image showing LED glowing when LDR is covered\]
+![image alt](https://github.com/OvieyaThirupathi/Automatic-Light-Detection-System-Using-LDR/blob/0ef48fca99dd9be26abe861eec247b14892641b6/LDR%20WORK.jpeg)
 
 C. LED OFF – Light Condition
-![image alt](https://github.com/OvieyaThirupathi/Automatic-Light-Detection-System-Using-LDR/blob/1f9ec14d65be537cc303c026addd0fcab094d0f7/LDR%20ON.jpeg)
-
-Project Title
-
-AUTOMATIC LIGHT DETECTION SYSTEM USING LDR
-
-Simple Working Flow
-
-Light → LDR detects light → LED OFF
-
-Darkness → LDR detects darkness → LED ON
-
-Idhu un photo-la irukura LDR \+ transistor \+ LED \+ 9V battery breadboard setup-ku suitable-ah irukkum. 👍  
+![image alt](https://github.com/OvieyaThirupathi/Automatic-Light-Detection-System-Using-LDR/blob/1f9ec14d65be537cc303c026addd0fcab094d0f7/LDR%20ON.jpeg) 
